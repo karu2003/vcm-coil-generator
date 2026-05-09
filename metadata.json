@@ -1,0 +1,27 @@
+{
+    "identifier": "com.vcm-actuator.coil-generator",
+    "type": "plugin",
+    "name": "VCM Coil Generator",
+    "description": "Generates parametric PCB spiral coils for VCM actuators",
+    "description_full": "Generates rectangular, circular or sector PCB spiral coils for a two-axis Voice-Coil Motor (VCM) actuator. Based on pcb_coil_calc.py calculation engine. Inspired by KiMotor.",
+    "identifier_url": "https://github.com/user/vcm-coil-generator",
+    "author": {
+        "name": "VCM Scanner Project",
+        "contact": {
+            "email": ""
+        }
+    },
+    "license": "GPL-2.0-only",
+    "resources": {},
+    "tags": ["coil", "motor", "vcm", "spiral", "generator"],
+    "versions": [
+        {
+            "version": "0.1.0",
+            "status": "development",
+            "kicad_version": "7.0",
+            "download_sha256": "",
+            "download_url": "",
+            "install_size": 0
+        }
+    ]
+}

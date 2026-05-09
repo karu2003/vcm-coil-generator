@@ -1,0 +1,21 @@
+# Russian readme
+README_ru.md
+
+# Generated output
+output/
+
+# Tests and dev utilities
+tests/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# User presets (created at runtime)
+vcm_coil_presets.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
