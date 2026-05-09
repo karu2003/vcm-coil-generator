@@ -20,7 +20,7 @@ Architecture is based on [KiMotor](https://github.com/cooked/kimotor), adapted f
 
 ```
 cd C:\Users\xxxx\Documents\KiCad\10.0\scripting\plugins
-mklink /J vcm_coil_generator "C:\Users\xxxx\Documents\Proj\Voice_Coil_Motor\kicad_plugin"
+mklink /J vcm_coil_generator "C:\Users\xxxx\Documents\Proj\vcm-coil-generator"
 ```
 
 Then in KiCad: **Tools → External Plugins → Refresh Plugins**.  
