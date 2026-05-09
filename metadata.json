@@ -20,10 +20,10 @@
             "version": "0.1.0",
             "status": "stable",
             "kicad_version": "7.0",
-            "download_sha256": "30e65503b8ca2509caa7d4679b9b565078e3ab3177265b69b5a93d7e544e72e5",
+            "download_sha256": "d6eaf156febc60184dbc051f5db212695d3af4c11cc02e3f839a00310bfa96e5",
             "download_url": "https://github.com/karu2003/vcm-coil-generator/releases/download/v0.1.0/vcm-coil-generator-0.1.0.zip",
-            "download_size": 137203,
-            "install_size": 1111437
+            "download_size": 137079,
+            "install_size": 1111127
         }
     ]
 }
