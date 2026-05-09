@@ -1,26 +1,28 @@
 {
-    "identifier": "com.vcm-actuator.coil-generator",
+    "$schema": "https://go.kicad.org/pcm/schemas/v2",
+    "identifier": "com.github.YOUR_GITHUB_USERNAME.vcm-coil-generator",
     "type": "plugin",
     "name": "VCM Coil Generator",
-    "description": "Generates parametric PCB spiral coils for VCM actuators",
-    "description_full": "Generates rectangular, circular or sector PCB spiral coils for a two-axis Voice-Coil Motor (VCM) actuator. Based on pcb_coil_calc.py calculation engine. Inspired by KiMotor.",
-    "identifier_url": "https://github.com/user/vcm-coil-generator",
+    "description": "Parametric PCB spiral coil generator for two-axis VCM actuators",
+    "description_full": "Generates rectangular, circular, or sector PCB spiral coils for a two-axis Voice-Coil Motor (VCM) actuator.\n\nFeatures:\n- Multi-layer winding (up to 16 layers) with automatic via placement\n- Three coil shapes: rectangular, circular (Archimedean), sector\n- Series-connection via start/end angle control\n- Magnet catalog integration (NdFeB disc/block)\n- Save/load parameter presets\n- Silkscreen outline generation\n\nCompatible with KiCad 7, 8, 9, 10.",
     "author": {
-        "name": "VCM Scanner Project",
+        "name": "YOUR_NAME",
         "contact": {
-            "email": ""
+            "web": "https://github.com/YOUR_GITHUB_USERNAME/vcm-coil-generator"
         }
     },
     "license": "GPL-2.0-only",
-    "resources": {},
-    "tags": ["coil", "motor", "vcm", "spiral", "generator"],
+    "resources": {
+        "homepage": "https://github.com/YOUR_GITHUB_USERNAME/vcm-coil-generator"
+    },
     "versions": [
         {
             "version": "0.1.0",
-            "status": "development",
+            "status": "stable",
             "kicad_version": "7.0",
-            "download_sha256": "",
-            "download_url": "",
+            "download_sha256": "FILL_AFTER_RELEASE",
+            "download_url": "https://github.com/YOUR_GITHUB_USERNAME/vcm-coil-generator/releases/download/v0.1.0/vcm-coil-generator-0.1.0.zip",
+            "download_size": 0,
             "install_size": 0
         }
     ]
