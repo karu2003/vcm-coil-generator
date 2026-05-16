@@ -262,4 +262,5 @@ The outline is added to the same group as the tracks and is removed by **Clear**
 
 If you find this project useful, consider supporting it:
 
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/karu2003)
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://www.paypal.com/paypalme/BuckinAndrew)
